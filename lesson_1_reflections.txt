@@ -1,0 +1,1 @@
+It reduced the number of lines to view to those with changes, thus increasing the speed at which the error could be identified.

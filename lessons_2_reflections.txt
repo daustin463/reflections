@@ -1,0 +1,9 @@
+git init - initialize a repo
+git log - show log of commits
+git status - status of git repo/area
+git diff - look at the diff between 2 git commits
+git diff --stage (difference between stage and master)
+git commit - make a commit for whatever is in the staging area
+git add - move a file to the staging area for commit
+git reset --hard Reset staging area and working directory.  BE CAREFUL!!
+git reset
